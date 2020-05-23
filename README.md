@@ -10,5 +10,5 @@ TECNOLOGIA
 Exemplo:
 
 <p align="center">
-    <img alt="aberrant logo" width="800px" src="https://github.com/thelukscolor/desafio-modulo-01/blob/master/exemplo.JPG" />
+    <img alt="aberrant logo" src="https://github.com/thelukscolor/desafio-modulo-01/blob/master/exemplo.JPG" />
 </p>
